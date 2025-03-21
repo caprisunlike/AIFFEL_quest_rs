@@ -1,3 +1,4 @@
+- Repository Structure
 ```
 AIFFEL_quest_cr
 ├── MainQuest
