@@ -67,34 +67,7 @@ AIFFEL_quest_cr
     ├── Deep08
     │   ├── .ipynb
     │   └── README.md
-    ├── Deep09
-    │   ├── .ipynb
-    │   └── README.md
-    ├── Deep10
-    │   ├── .ipynb
-    │   └── README.md
-    ├── Deep11
-    │   ├── .ipynb
-    │   └── README.md
-    ├── Deep12
-    │   ├── .ipynb
-    │   └── README.md
-    ├── Deep13
-    │   ├── .ipynb
-    │   └── README.md
-    ├── Deep14
-    │   ├── .ipynb
-    │   └── README.md
-    ├── Deep15
-    │   ├── .ipynb
-    │   └── README.md
-    ├── Deep16
-    │   ├── .ipynb
-    │   └── README.md
-    ├── Deep17
-    │   ├── .ipynb
-    │   └── README.md
-    └── Deep18
+    └── Deep09
          ├── .ipynb
          └── README.md
 ```
