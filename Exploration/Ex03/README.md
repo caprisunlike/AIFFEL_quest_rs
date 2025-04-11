@@ -12,11 +12,13 @@
 
   - <img src = "https://github.com/bluegold75/AIFFEL_QUEST_RS/blob/main/image/result1.png?raw=true">
 
-  - <img src = "https://github.com/bluegold75/AIFFEL_QUEST_RS/tree/main/Exploration/EX03">
+  - <img src = "https://github.com/bluegold75/AIFFEL_QUEST_RS/blob/main/image/result2.png?raw=true">
 
-  - <img src = "https://private-user-images.githubusercontent.com/145317142/432570037-fdab4347-9d2c-4e01-bc0e-1038046c7c52.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQzNTA1MzksIm5iZiI6MTc0NDM1MDIzOSwicGF0aCI6Ii8xNDUzMTcxNDIvNDMyNTcwMDM3LWZkYWI0MzQ3LTlkMmMtNGUwMS1iYzBlLTEwMzgwNDZjN2M1Mi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQxMVQwNTQzNTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xN2Q5NGVjZmFlMGUzNzI3ZjMxNTY4ODk4NTJiYTJlYThhNjBjZDExMWVmMWQwOGU2ODNhYWYxZTU5ZDQ0YzJiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.s5Z5C5oxrg9xEr6v8Ud0w7uwNJHIdtsBwD7YR-sn6Tc">
+  - <img src = "https://github.com/bluegold75/AIFFEL_QUEST_RS/blob/main/image/result3.png?raw=true">
 
-  - <img src = "https://private-user-images.githubusercontent.com/145317142/432570057-5a8ec6d2-8cc1-4729-b9c6-ccfaa614d57e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQzNTA1MzksIm5iZiI6MTc0NDM1MDIzOSwicGF0aCI6Ii8xNDUzMTcxNDIvNDMyNTcwMDU3LTVhOGVjNmQyLThjYzEtNDcyOS1iOWM2LWNjZmFhNjE0ZDU3ZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQxMVQwNTQzNTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zYmE2ODhlMzRmMTRkY2NhMjZjMDk5YzRiNjVjMWFjOTM1YzIyZGNhNzNjN2YzYjVjN2I5NDMyYTFhMDhlY2RiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.LzWxQX42lo9Mj-MaJCoMzKPI8UjGCgwhbMLSc0L9LIA">">
+  - <img src = "https://github.com/bluegold75/AIFFEL_QUEST_RS/blob/main/image/result4.png?raw=true">
+
+  - <img src = "https://github.com/bluegold75/AIFFEL_QUEST_RS/blob/main/image/result5.png?raw=true">
   
     
 - [O]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
@@ -24,9 +26,9 @@
 
         - 다양한 구도와 각도에서의 합성을 위한 함수를 직접 작성하였고, 이를 통해 결과를 한 눈에 볼 수 있도록 구성하였다.
   
-  - <img src = "https://private-user-images.githubusercontent.com/145317142/432592302-123edcc9-53fb-4ce8-a7b5-6dd80a617038.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQzNDM2MjksIm5iZiI6MTc0NDM0MzMyOSwicGF0aCI6Ii8xNDUzMTcxNDIvNDMyNTkyMzAyLTEyM2VkY2M5LTUzZmItNGNlOC1hN2I1LTZkZDgwYTYxNzAzOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQxMVQwMzQ4NDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03NDZjNzM1YzYxMWEwMjU5MWNjZWY5MzRkZDk1NWQ3YTA4ZGQ1YzYxYTFkOGM0OGJlZGQ4YWNjMjNmZGQwNWY0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.-rBmcy5cNTQ0rJCyI4-rdapqL_J_65NWrsyFEHnOaZs">
+  - <img src = "https://github.com/bluegold75/AIFFEL_QUEST_RS/blob/main/image/result6.png?raw=true">
 
-  - <img src = "https://private-user-images.githubusercontent.com/145317142/432592315-fb514dda-088d-4e92-92ad-132691ccfbc6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQzNTA3OTEsIm5iZiI6MTc0NDM1MDQ5MSwicGF0aCI6Ii8xNDUzMTcxNDIvNDMyNTkyMzE1LWZiNTE0ZGRhLTA4OGQtNGU5Mi05MmFkLTEzMjY5MWNjZmJjNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQxMVQwNTQ4MTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jMjI3YWY1MWI4N2UwYWFiMzBjZDlhZTU4ZjNkN2ZlZjhiYzI5Yjc4YzQ0YTQyZWM5YTk0ODgwNTA1ZGY4NzFjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.tku57ypMN2k3oL1EOczYmYgCn8JnmORwCMmqLZfohr4">
+  - <img src = "https://github.com/bluegold75/AIFFEL_QUEST_RS/blob/main/image/result7.png?raw=true">
         
 - [O]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
 새로운 시도 또는 추가 실험을 수행해봤나요?**
@@ -35,7 +37,7 @@
   
         - 에러가 난 부분에 대해 반복 시도하였다.
   
-  - <img src = "https://private-user-images.githubusercontent.com/145317142/432591975-9aad6cc7-9d5e-4eb3-bfab-77eba54968ff.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQzNTA1MzksIm5iZiI6MTc0NDM1MDIzOSwicGF0aCI6Ii8xNDUzMTcxNDIvNDMyNTkxOTc1LTlhYWQ2Y2M3LTlkNWUtNGViMy1iZmFiLTc3ZWJhNTQ5NjhmZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQxMVQwNTQzNTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yMGM3NGE1NjI1MzA4ZTk1M2Y5MjhhNDc5M2VjZmFiZTg4ZjRiMWUwNTg3OWQ4N2U4N2ZhMDRlNGY1NTVlZmNhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.UO05IUmIw6bDhjwBt45DOWTWq7r0cyUxf1UKJD5pGSk">
+  - <img src = "https://github.com/bluegold75/AIFFEL_QUEST_RS/blob/main/image/result8.png?raw=true">
         
 - [O]  **4. 회고를 잘 작성했나요?**
  
@@ -55,5 +57,5 @@
  
 - 실험 결과들을 보면서 모르는 사람도 인사이트를 얻어갈 수 있을것 같습니다.
 
--에러가 난 부분과 미완성된 실험에 대해서도 해결하려고 하는 의지가 돋보였습니다.
+- 에러가 난 부분과 미완성된 실험에 대해서도 해결하려고 하는 의지가 돋보였습니다.
 
