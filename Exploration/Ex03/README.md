@@ -10,7 +10,7 @@
   
         - 다양한 구도와 각도에서의 합성을 하였다.
 
-  - <img src = "https://github.com/bluegold75/AIFFEL_QUEST_RS/tree/main/image/result1.png">
+  - ![]("https://github.com/bluegold75/AIFFEL_QUEST_RS/tree/main/image/result1.png")
 
   - <img src = "https://github.com/bluegold75/AIFFEL_QUEST_RS/tree/main/Exploration/EX03">
 
