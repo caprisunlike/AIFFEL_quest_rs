@@ -7,14 +7,14 @@
 - [ ]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
     - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
         - 중요! 해당 조건을 만족하는 부분을 캡쳐해 근거로 첨부
-        ![1.-1](Peer Review Image/1-1.png)
-        ![1.-2](Peer Review Image/1-2.png)
-        ![1.-3](Peer Review Image/2-1.png)
-        ![1.-4](Peer Review Image/2-2.png)
-        ![1.-5](Peer Review Image/3-1.png)
-        ![1.-6](Peer Review Image/3-2.png)
-        ![1.-7](Peer Review Image/3-3.png)
-        ![1.-8](Peer Review Image/3-4.png)
+        ![1.-1](Peer_Review_Image/1-1.png)
+        ![1.-2](Peer_Review_Image/1-2.png)
+        ![1.-3](Peer_Review_Image/2-1.png)
+        ![1.-4](Peer_Review_Image/2-2.png)
+        ![1.-5](Peer_Review_Image/3-1.png)
+        ![1.-6](Peer_Review_Image/3-2.png)
+        ![1.-7](Peer_Review_Image/3-3.png)
+        ![1.-8](Peer_Review_Image/3-4.png)
     
 - [ ]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
@@ -23,7 +23,7 @@
     - 해당 코드의 기능, 존재 이유, 작동 원리 등을 기술했는지 확인
     - 주석을 보고 코드 이해가 잘 되었는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
-        ![2.](Peer Riview Image/2..png)
+        ![2.](Peer_Riview_Image/2..png)
         - 주석을 보고 코드 구조를 쉽게 파악할 수 있었음
 - [ ]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
 새로운 시도 또는 추가 실험을 수행해봤나요?**
@@ -31,7 +31,7 @@
     - 프로젝트 평가 기준에 더해 추가적으로 수행한 나만의 시도, 
     실험이 기록되어 있는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
-        ![3.](Peer Riview Image/3..png)
+        ![3.](Peer_Riview_Image/3..png)
         - 이미지에 대해 contrast와 sharpness 값을 통해 투명 페트병을 DeepLab이 더 잘 감지하게 됨
         
 - [ ]  **4. 회고를 잘 작성했나요?**
@@ -39,13 +39,13 @@
     배운점과 아쉬운점, 느낀점 등이 기록되어 있는지 확인
     - 전체 코드 실행 플로우를 그래프로 그려서 이해를 돕고 있는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
-        ![4.](Peer Riview Image/4..png)
+        ![4.](Peer_Riview_Image/4..png)
         
 - [ ]  **5. 코드가 간결하고 효율적인가요?**
     - 파이썬 스타일 가이드 (PEP8) 를 준수하였는지 확인
     - 코드 중복을 최소화하고 범용적으로 사용할 수 있도록 함수화/모듈화했는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
-        ![5.](Peer Riview Image/5..png)
+        ![5.](Peer_Riview_Image/5..png)
         - Baseline 코드를 함수화시켜 여러 군데서 편하게 사용하게 함
 
 
