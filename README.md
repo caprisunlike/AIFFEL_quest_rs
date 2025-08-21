@@ -1,6 +1,6 @@
 # AIFFEL AI reserch Quest GitHub Repository
 - 아이펠 AI 리서치 과정 온라인 13기
-- 교육과정 : 2025.03.17 - 2.25.09.19
+- 교육과정 : 2025.03.17 - 2.25.09.12
 ### Repository Structure
 ```
 AIFFEL_quest_cr
